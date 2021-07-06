@@ -34,10 +34,10 @@ body{
 }
 .recipies-item{
     text-align: left;
-    width: 40%;
-    margin-bottom: 5px ;
-    margin-top: 5px;
-    margin-left: 5px;
+    width: 100%;
+    margin-bottom: 10px ;
+    margin-top: 10px;
+    margin-left: 20px;
     margin-right: 8px;
     padding-left: 10PX;
     padding-right: 5PX;
@@ -47,4 +47,29 @@ body{
 .Recipies img{
      width: 100%;
      border-radius: 10px;
+     margin-top: 10px;
+     margin-right: 2px;
+    
 }
+.last-banner{
+    width: 40%;
+    margin-left: 5px;
+}
+.footer{
+    text-align: center;
+    font-weight: 700;
+    background-color: black;
+    max-width: 100;
+
+}
+.footer p{
+    color: white;
+    font-weight: 400;
+}
+.footer h1{
+    color: gray;
+}
+
+    
+    
+    
